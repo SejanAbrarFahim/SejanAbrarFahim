@@ -13,14 +13,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="center">
-<a href="https://fb.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sejan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/@TechnoPlayzone-f9s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TechnoPlay zone" height="30" width="40" /></a>
-<a href="https://instagram.com/sejan2007___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sejan" height="30" width="40" /></a>
-<a href="https://twitter.com/SejanAbrarFahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="Sejan" height="30" width="40" /></a>
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sejan abrar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan abrar fahim" height="30" width="40" /></a>
+<a href="https://fb.com/sejan abrar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sejan abrar fahim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/technoplay zone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technoplay zone" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nQvQqHzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nQvQqHzs" height="30" width="40" /></a>
 </p>
+
 
 
 # 💻 Tech Stack:
