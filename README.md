@@ -13,13 +13,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sejan abrar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan abrar fahim" height="30" width="40" /></a>
-<a href="https://fb.com/sejan abrar fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sejan abrar fahim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technoplay zone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technoplay zone" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nQvQqHzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nQvQqHzs" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nQvQqHzs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sejan2007___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sejan Abrar Fahim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sejanabrarfahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SejanAbrarFahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejan62007@gmail.com) 
+
 
 
 
