@@ -19,7 +19,7 @@
 <a href="https://fb.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sejan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/@TechnoPlayzone-f9s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TechnoPlay zone" height="30" width="40" /></a>
 <a href="https://instagram.com/sejan2007___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sejan" height="30" width="40" /></a>
-<a href="https://twitter.com/SejanAbrarFahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sejan" height="30" width="40" /></a>
+<a href="https://twitter.com/SejanAbrarFahim" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/X_logo_2023.svg" alt="Sejan" height="30" width="40" /></a>
 </p>
 
 
