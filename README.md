@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nQvQqHzs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sejan2007___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sejan Abrar Fahim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sejanabrarfahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SejanAbrarFahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejan62007@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nQvQqHzs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sejan2007___)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sejanabrarfahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SejanAbrarFahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejan62007@gmail.com) 
 
 
 
