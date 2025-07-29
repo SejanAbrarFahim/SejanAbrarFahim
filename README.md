@@ -1,4 +1,4 @@
-![image alt](https://github.com/SejanAbrarFahim/code-dump-not-important283377/blob/main/81bb4b165684019.640b6038d133e.gif)
+![image alt](https://github.com/SejanAbrarFahim/code-dump-not-important283377/blob/main/IMG1.gif)
 
 ## Hi there 👋 I'm Sejan Abrar Fahim
  ![Profile views](https://komarev.com/ghpvc/?username=SejanAbrarFahim&color=red)
