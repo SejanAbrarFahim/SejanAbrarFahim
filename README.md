@@ -1,4 +1,4 @@
-![image alt](https://github.com/SejanAbrarFahim/first-project--23/blob/efa48605ed752041de796987a74bd8dff364bee6/WhatsApp%20Image%202025-07-26%20at%2012.30.23%20PM.jpeg)
+![image alt](https://github.com/SejanAbrarFahim/code-dump-not-important283377/blob/main/81bb4b165684019.640b6038d133e.gif)
 
 ## Hi there 👋 I'm Sejan Abrar Fahim
  ![Profile views](https://komarev.com/ghpvc/?username=SejanAbrarFahim&color=red)
