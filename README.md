@@ -12,8 +12,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sejan.abrar.fahim.2024)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sejan62007@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sejan2007___)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sejanabrarfahim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SejanAbrarFahim) 
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SejanAbrarFahim-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
+
+
 
 
 
