@@ -4,7 +4,6 @@
  ![Profile views](https://komarev.com/ghpvc/?username=SejanAbrarFahim&color=red)
 
 - 🔭 I’m currently working on web development projects
-- 🌱 I’m currently learning Next.js and Tailwind CSS
 - 👯 I’m looking to collaborate on Open Source Web Projects
 - 🤔 I’m looking for help with Backend Development (Node.js, Express.js)
 - 💬 Ask me about Frontend Development
