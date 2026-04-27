@@ -13,16 +13,16 @@
 
 <h1 align="center">Connect with me :</h1>
 
-<p align="center" style="margin: 0 50px;">
+<p align="center" >
   <a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" style="margin: 0 50px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="_blank" style="margin: 0 50px;">
+  <a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 50px;" />
   </a>
 
-  <a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="_blank" style="margin: 0 50px;">
+  <a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42" style="margin: 0 50px;" />
   </a>
 </p>
