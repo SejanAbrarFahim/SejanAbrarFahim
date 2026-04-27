@@ -11,11 +11,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
-<h3 align="left">Connect with me:</h3>
-<p display="flex">
-<a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sejan" height="40" width="50" /></a> 
-<a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan" height="40" width="50" /></a> 
-<a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sejan abrar fahim" height="45" width="50" /></a> 
+<p align="center">
+  <a href="https://www.facebook.com/sejan.abrar.fahim.2024">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 
 
