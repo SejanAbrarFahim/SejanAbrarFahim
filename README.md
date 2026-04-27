@@ -11,15 +11,19 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://www.facebook.com/sejan.abrar.fahim.2024">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 15px;" />
   </a>
-  <a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+  <a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="42" style="margin: 0 15px;" />
   </a>
 </p>
 
