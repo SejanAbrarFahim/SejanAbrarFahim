@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="40" width="50" /></a>
-<a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="45" width="50" /></a>
+<a href="https://www.facebook.com/sejan.abrar.fahim.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sejan" height="40" width="50" /></a> <br>
+<a href="https://www.linkedin.com/in/sejan-abrar-fahim-b63750334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejan" height="40" width="50" /></a> <br>
+<a href="https://www.youtube.com/@SejanAbrarFahim-dev/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sejan abrar fahim" height="45" width="50" /></a> 
 
 
 
