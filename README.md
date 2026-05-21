@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Open Source Web Projects
 - 🤔 I’m looking for help with Backend Development (Node.js, Express.js)
 - 💬 Ask me about Frontend Development
-- 📫 How to reach me: [Email](mailto:sejan252007@gmail.com.com)
+- 📫 How to reach me: [Email](mailto:sejan252007@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to design and code modern, minimal websites!
 
