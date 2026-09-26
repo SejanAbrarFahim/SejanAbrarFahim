@@ -48,16 +48,9 @@
   <br/>
 </a>
 
-![Sejan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SejanAbrarFahim&theme=react-dark)
-
-<br/>
-
-<br/>
 
 
-## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SejanAbrarFahim&theme=gruvbox&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
